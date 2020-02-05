@@ -28,4 +28,13 @@
     clear: both;
     background: #ddd;
   }
+
+  .left {
+    float: left;
+    width: 58%;
+  }
   
+  .right {
+    float: right;
+    width: 40%;
+  }
