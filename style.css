@@ -11,20 +11,20 @@
   }
   
   header {
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 20px;
     color: rgb(92, 92, 92);
     background: #ddd;
   }
   
   section {
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 20px;
     background: #ddd;
   }
   
   footer {
-    padding: 20px;
+    padding: 10px;
     clear: both;
     background: #ddd;
   }
