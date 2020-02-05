@@ -7,13 +7,13 @@
   body {
     font-size: 24px;
     line-height: 32px;
-    color: #333;
+    color: rgb(92, 92, 92);
   }
   
   header {
     padding: 20px;
     margin-bottom: 20px;
-    color: #333;
+    color: rgb(92, 92, 92);
     background: #ddd;
   }
   
@@ -21,37 +21,6 @@
     padding: 20px;
     margin-bottom: 20px;
     background: #ddd;
-  }
-  
-  #left {
-    float: left;
-    width: 60%;
-    color: #ddd;
-    background: #30948D;
-  }
-  
-  #right {
-    float: left;
-    width: 40%;
-    color: #ddd;
-    background: #30948D;
-  }
-  
-  #division {
-    padding: 20px;
-    margin-top: 20px;
-    background: #214fb3;
-  }
-  
-  aside {
-    float: left;
-    width: 33%;
-    height: 200px;
-    padding: 20px;
-    margin-left: 30px;
-    text-decoration-color: white;
-    background: #a6b747;
-    border: 1px solid #eee;
   }
   
   footer {
